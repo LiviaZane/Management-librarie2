@@ -1,0 +1,329 @@
+# depslib dependency file v1.0
+1621195691 source:c:\users\catalina\documents\livia-codeblocks\tema_pa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621195804 c:\users\catalina\documents\livia-codeblocks\tema_pa\utils.h
+
+1621195250 source:c:\users\catalina\documents\livia-codeblocks\tema_pa\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621194361 source:c:\users\catalina\documents\livia-codeblocks\tema_pa - copie (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621194241 c:\users\catalina\documents\livia-codeblocks\tema_pa - copie (2)\utils.h
+
+1621194277 source:c:\users\catalina\documents\livia-codeblocks\tema_pa - copie (2)\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1621256145 source:c:\users\florin\downloads\tema_pa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621255617 c:\users\florin\downloads\tema_pa\utils.h
+
+1621256223 source:c:\users\florin\downloads\tema_pa\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621425834 source:c:\users\vacan\downloads\tema_pa2\tema_pa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621425834 c:\users\vacan\downloads\tema_pa2\tema_pa\utils.h
+
+1621426322 source:c:\users\vacan\downloads\tema_pa2\tema_pa\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621427287 source:c:\users\vacan\downloads\tema_pa2\sterge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621427619 c:\users\vacan\downloads\tema_pa2\sterge\utils.h
+
+1621427442 source:c:\users\vacan\downloads\tema_pa2\sterge\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621458185 source:c:\users\vacan\downloads\tema_pa2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621457762 c:\users\vacan\downloads\tema_pa2\utils.h
+
+1621458064 source:c:\users\vacan\downloads\tema_pa2\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621601404 source:c:\users\florin\downloads\tema_pa2 - 19.05.2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621598261 c:\users\florin\downloads\tema_pa2 - 19.05.2021\utils.h
+
+1621601387 source:c:\users\florin\downloads\tema_pa2 - 19.05.2021\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621784474 source:c:\users\catalina\downloads\tema_pa2 - 19.05.2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621779412 c:\users\catalina\downloads\tema_pa2 - 19.05.2021\utils.h
+
+1621783823 source:c:\users\catalina\downloads\tema_pa2 - 19.05.2021\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621807370 source:c:\users\vacan\downloads\tema_pa2 - 23.05.2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621805197 c:\users\vacan\downloads\tema_pa2 - 23.05.2021\utils.h
+
+1621807828 source:c:\users\vacan\downloads\tema_pa2 - 23.05.2021\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621938283 source:c:\users\florin\downloads\vechi\tema_pa2 - 23.05.2021 ora 23.59\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621938434 c:\users\florin\downloads\vechi\tema_pa2 - 23.05.2021 ora 23.59\utils.h
+
+1621938283 source:c:\users\florin\downloads\vechi\tema_pa2 - 23.05.2021 ora 23.59\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621946732 source:c:\users\florin\downloads\tema_pa 24.05.2021\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1621942091 c:\users\florin\downloads\tema_pa 24.05.2021\utils.h
+
+1621947148 source:c:\users\florin\downloads\tema_pa 24.05.2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1622028534 source:c:\users\vacan\downloads\tema_pa 24.05.2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+	"algorithms.h"
+
+1621966270 c:\users\vacan\downloads\tema_pa 24.05.2021\utils.h
+
+1622028534 source:c:\users\vacan\downloads\tema_pa 24.05.2021\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algorithms.h"
+	"utils.h"
+
+1621966829 source:c:\users\vacan\downloads\tema_pa 24.05.2021\algorithms.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algorithms.h"
+	"utils.h"
+
+1621966829 c:\users\vacan\downloads\tema_pa 24.05.2021\algorithms.h
+
+1621964459 source:c:\users\vacan\downloads\tema_pa 24.05.2021\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algorithms.h"
+	"utils.h"
+	"test.h"
+
+1621964459 c:\users\vacan\downloads\tema_pa 24.05.2021\test.h
+
+1622035691 source:c:\users\vacan\downloads\tema_pa 26.05.2021\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1622035540 c:\users\vacan\downloads\tema_pa 26.05.2021\algorithms.h
+
+1622035540 c:\users\vacan\downloads\tema_pa 26.05.2021\utils.h
+
+1622035420 source:c:\users\vacan\downloads\tema_pa 26.05.2021\algorithms.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utils.h"
+	"test.h"
+
+1622035540 source:c:\users\vacan\downloads\tema_pa 26.05.2021\test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"algorithms.h"
+	"utils.h"
+
+1622035540 c:\users\vacan\downloads\tema_pa 26.05.2021\test.h
+
+1622043919 source:c:\users\vacan\downloads\tema_pa 26.05.2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utils.h"
+
+1622096295 source:c:\users\florin\downloads\tema_pa 26.05.2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utils.h"
+
+1622035540 c:\users\florin\downloads\tema_pa 26.05.2021\utils.h
+
+1622035691 source:c:\users\florin\downloads\tema_pa 26.05.2021\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1622232622 source:c:\users\catalina\downloads\tema_pa 26.05.2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utils.h"
+
+1622035540 c:\users\catalina\downloads\tema_pa 26.05.2021\utils.h
+
+1622035691 source:c:\users\catalina\downloads\tema_pa 26.05.2021\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1622291606 source:c:\users\livia\downloads\tema_pa 28.05.2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utils.h"
+
+1622035540 c:\users\livia\downloads\tema_pa 28.05.2021\utils.h
+
+1622035691 source:c:\users\livia\downloads\tema_pa 28.05.2021\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1622493411 source:c:\users\livia\downloads\tema_pa 28.05.2021 - vs2019\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1622489183 c:\users\livia\downloads\tema_pa 28.05.2021 - vs2019\utils.h
+
+1622492808 source:c:\users\livia\downloads\tema_pa 28.05.2021 - vs2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utils.h"
+
+1622506398 source:c:\users\livia\desktop\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utils.h"
+
+1622489183 c:\users\livia\desktop\c\utils.h
+
+1622503037 source:c:\users\livia\desktop\c\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1622801862 source:c:\users\florin\downloads\pa-cr1.3b-zane-livia-homework-assignment\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utils.h"
+
+1622489183 c:\users\florin\downloads\pa-cr1.3b-zane-livia-homework-assignment\c\utils.h
+
+1622801417 source:c:\users\florin\downloads\pa-cr1.3b-zane-livia-homework-assignment\c\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1622801862 source:c:\users\livia\downloads\tema\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utils.h"
+
+1622489183 c:\users\livia\downloads\tema\c\utils.h
+
+1622801417 source:c:\users\livia\downloads\tema\c\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
